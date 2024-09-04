@@ -21,7 +21,7 @@ To get started with this project, follow these steps:
 1. *Clone the repository*:
    bash
    git clone https://github.com/Niranjan1727/Rock-Paper-Scissor-Prediction-using-Computer-Vision.git
-   cd Rock-Paper-Scissor-Prediction-using-Computer-Vision
+   cd Rock-Paper-Scissor-Prediction-using-Computer-Vision.git
    
 
 2. *Install dependencies*:
